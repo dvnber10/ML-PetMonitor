@@ -1,0 +1,1001 @@
+Raza;Actividad;Apetito;Sueño;Vocalización;Enfermedad
+Gato Birmano;2;3;2;1;Problemas renales
+Golden Retriever;2;3;6;7;Obesidad
+Labrador Retriever;1;2;9;5;Obesidad
+Gato Azul Ruso;8;9;2;8;Hipertiroidismo
+Labrador Retriever;6;7;6;4;Enfermedades del disco
+Gato Scottish Fold;1;2;2;1;Infecciones del tracto urinario
+Gato Bosque de Noruega;4;5;9;6;Obesidad
+Gato Bosque de Noruega;8;9;4;6;Problemas dentales
+Beagle;10;11;5;5;Enfermedades cardíacas
+Boxer;10;11;10;4;Problemas oculares
+Gato Bengalí;6;7;1;2;Infecciones del tracto urinario
+Gato Sphynx;6;7;5;8;Problemas renales
+Bullmastiff;3;4;5;1;Obesidad
+Chihuahua;9;10;5;8;Enfermedades del disco
+Rottweiler;8;9;2;7;Infección gastrointestinal
+Dachshund;5;6;2;3;Normal
+Boxer;3;4;8;4;Problemas oculares
+Bullmastiff;1;2;7;5;Obesidad
+Labrador Retriever;5;6;6;2;Displasia de cadera
+Gato Birmano;3;4;10;4;Normal
+Bulldog;10;11;2;7;Infección gastrointestinal
+Bullmastiff;8;9;9;1;Torsión gástrica
+Gato Azul Ruso;5;6;8;7;Enfermedades respiratorias
+Gato Ragdoll;5;6;2;2;Problemas renales
+Rottweiler;5;6;5;5;Infección gastrointestinal
+Rottweiler;3;4;8;3;Obesidad
+Gato Birmano;4;5;10;4;Problemas dentales
+Labrador Retriever;10;11;8;1;Problemas oculares
+Doberman Pinscher;8;9;5;9;Infección gastrointestinal
+Doberman Pinscher;6;7;8;10;Enfermedades del disco
+Gato Siamés;2;3;8;7;Obesidad
+Gato Sphynx;10;11;3;10;Hipertiroidismo
+Cocker Spaniel;1;2;9;3;Obesidad
+Cocker Spaniel;5;6;5;7;Ansiedad por separación
+Dogo Argentino;1;2;5;9;Ansiedad por separación
+Gato Ragdoll;10;11;8;7;Hipertiroidismo
+Dachshund;10;11;4;8;Infección gastrointestinal
+Labrador Retriever;4;5;9;2;Displasia de cadera
+Gato Sphynx;1;2;10;1;Enfermedades respiratorias
+Dogo Argentino;1;2;7;3;Torsión gástrica
+Bulldog;5;6;5;8;Ansiedad por separación
+Gato Bengalí;1;2;4;1;Estrés crónico
+Gato Maine Coon;9;10;1;6;Problemas dentales
+Rottweiler;10;11;8;9;Ansiedad por separación
+Pug;10;11;5;4;Ansiedad por separación
+Gato Scottish Fold;9;10;7;8;Hipertiroidismo
+Labrador Retriever;3;4;3;4;Problemas respiratorios
+Beagle;10;11;3;10;Normal
+Bulldog;2;3;1;6;Enfermedades del disco
+Gato Siamés;10;11;6;9;Hipertiroidismo
+Gato Bosque de Noruega;2;3;5;5;Problemas renales
+Gato Sphynx;10;11;3;10;Hipertiroidismo
+Gato Scottish Fold;10;11;6;9;Hipertiroidismo
+Gato Siamés;1;2;9;5;Problemas dentales
+Beagle;6;7;9;3;Enfermedades cardíacas
+Labrador Retriever;9;10;2;5;Infección gastrointestinal
+Boxer;1;2;7;4;Torsión gástrica
+Pug;1;2;3;5;Problemas respiratorios
+Doberman Pinscher;5;6;1;8;Obesidad
+Dachshund;1;2;9;4;Problemas respiratorios
+Dachshund;6;7;9;3;Infección gastrointestinal
+Gato Siamés;9;10;6;2;Enfermedades respiratorias
+Shih Tzu;4;5;5;8;Infección gastrointestinal
+Gato Maine Coon;7;8;10;1;Problemas renales
+Doberman Pinscher;6;7;7;5;Displasia de cadera
+Dogo Argentino;4;5;6;3;Enfermedades cardíacas
+Labrador Retriever;3;4;6;1;Displasia de cadera
+Doberman Pinscher;3;4;6;5;Enfermedades cardíacas
+Gato Bengalí;5;6;2;6;Normal
+Bulldog;10;11;1;6;Ansiedad por separación
+Gato Azul Ruso;5;6;4;3;Problemas renales
+Shih Tzu;3;4;8;6;Displasia de cadera
+Bulldog;4;5;10;7;Problemas respiratorios
+Pug;3;4;2;1;Enfermedades cardíacas
+Labrador Retriever;1;2;7;8;Ansiedad por separación
+Rottweiler;7;8;3;3;Normal
+Gato Azul Ruso;9;10;10;7;Hipertiroidismo
+Pug;4;5;9;1;Displasia de cadera
+Dogo Argentino;7;8;6;8;Enfermedades del disco
+Cocker Spaniel;8;9;4;2;Infección gastrointestinal
+Pastor Alemán;5;6;6;9;Infección gastrointestinal
+Dachshund;5;6;7;7;Displasia de cadera
+Bullmastiff;8;9;3;9;Enfermedades cardíacas
+Bullmastiff;2;3;4;4;Problemas respiratorios
+Gato Birmano;10;11;9;1;Infecciones del tracto urinario
+Rottweiler;5;6;9;2;Enfermedades del disco
+Chihuahua;10;11;2;8;Normal
+Pug;7;8;7;7;Infección gastrointestinal
+Dachshund;4;5;4;1;Normal
+Boxer;1;2;9;4;Problemas respiratorios
+Shih Tzu;1;2;2;7;Infección gastrointestinal
+Chihuahua;7;8;1;7;Torsión gástrica
+Beagle;2;3;6;4;Problemas respiratorios
+Gato Bosque de Noruega;5;6;6;4;Obesidad
+Gato Birmano;2;3;6;6;Problemas renales
+Cocker Spaniel;3;4;9;6;Displasia de cadera
+Chihuahua;6;7;10;2;Displasia de cadera
+Gato Azul Ruso;1;2;5;1;Obesidad
+Boxer;5;6;10;4;Displasia de cadera
+Beagle;6;7;7;2;Normal
+Gato Birmano;7;8;10;10;Estrés crónico
+Gato Maine Coon;3;4;8;1;Infecciones del tracto urinario
+Gato Maine Coon;10;11;1;5;Enfermedades respiratorias
+Labrador Retriever;10;11;3;3;Enfermedades cardíacas
+Gato Azul Ruso;5;6;5;4;Enfermedades respiratorias
+Gato Persa;6;7;6;6;Problemas renales
+Gato Birmano;2;3;5;7;Infecciones del tracto urinario
+Pug;5;6;4;9;Obesidad
+Boxer;10;11;4;1;Enfermedades cardíacas
+Doberman Pinscher;4;5;9;8;Enfermedades cardíacas
+Shih Tzu;4;5;6;4;Displasia de cadera
+Bullmastiff;3;4;1;8;Obesidad
+Dachshund;5;6;9;7;Displasia de cadera
+Pastor Alemán;3;4;8;10;Problemas oculares
+Dachshund;5;6;8;9;Enfermedades cardíacas
+Bulldog;2;3;10;7;Problemas respiratorios
+Pug;1;2;5;6;Problemas respiratorios
+Gato Bengalí;1;2;6;3;Infecciones del tracto urinario
+Bullmastiff;8;9;9;10;Infección gastrointestinal
+Rottweiler;1;2;7;5;Enfermedades del disco
+Bullmastiff;5;6;10;4;Displasia de cadera
+Bulldog;3;4;5;1;Obesidad
+Bulldog;9;10;10;9;Enfermedades cardíacas
+Gato Azul Ruso;7;8;9;5;Problemas renales
+Labrador Retriever;1;2;5;5;Ansiedad por separación
+Pug;1;2;2;5;Ansiedad por separación
+Dogo Argentino;7;8;2;2;Problemas oculares
+Dachshund;4;5;3;6;Obesidad
+Chihuahua;3;4;8;2;Displasia de cadera
+Doberman Pinscher;10;11;10;7;Enfermedades del disco
+Cocker Spaniel;3;4;6;8;Problemas respiratorios
+Cocker Spaniel;9;10;10;10;Infección gastrointestinal
+Rottweiler;5;6;3;2;Enfermedades cardíacas
+Gato Bengalí;6;7;6;2;Problemas dentales
+Pug;1;2;4;1;Torsión gástrica
+Pug;4;5;10;10;Enfermedades cardíacas
+Pug;6;7;10;9;Ansiedad por separación
+Dogo Argentino;3;4;5;6;Problemas respiratorios
+Rottweiler;4;5;7;5;Problemas respiratorios
+Boxer;4;5;6;4;Problemas respiratorios
+Gato Bengalí;4;5;2;9;Obesidad
+Gato Bosque de Noruega;5;6;3;7;Problemas dentales
+Boxer;2;3;6;4;Ansiedad por separación
+Bulldog;7;8;7;7;Infección gastrointestinal
+Bulldog;8;9;5;8;Enfermedades del disco
+Chihuahua;4;5;9;8;Problemas respiratorios
+Gato Azul Ruso;6;7;8;9;Problemas dentales
+Labrador Retriever;4;5;1;7;Infección gastrointestinal
+Cocker Spaniel;3;4;9;7;Problemas respiratorios
+Gato Bengalí;8;9;2;2;Normal
+Gato Ragdoll;9;10;9;3;Enfermedades respiratorias
+Gato Bengalí;7;8;6;4;Enfermedades respiratorias
+Pug;2;3;7;5;Infección gastrointestinal
+Golden Retriever;1;2;8;8;Enfermedades cardíacas
+Gato Scottish Fold;9;10;6;7;Hipertiroidismo
+Gato Persa;10;11;6;10;Problemas renales
+Labrador Retriever;5;6;1;8;Enfermedades del disco
+Gato Birmano;9;10;9;8;Estrés crónico
+Shih Tzu;3;4;5;2;Ansiedad por separación
+Cocker Spaniel;4;5;10;10;Displasia de cadera
+Bullmastiff;4;5;2;4;Problemas oculares
+Gato Ragdoll;5;6;2;7;Problemas dentales
+Chihuahua;1;2;2;8;Enfermedades del disco
+Dachshund;3;4;10;8;Torsión gástrica
+Chihuahua;6;7;7;7;Ansiedad por separación
+Rottweiler;2;3;3;6;Problemas respiratorios
+Rottweiler;9;10;8;10;Enfermedades del disco
+Bullmastiff;1;2;10;2;Problemas oculares
+Labrador Retriever;6;7;8;3;Displasia de cadera
+Gato Persa;5;6;5;4;Problemas dentales
+Gato Bosque de Noruega;4;5;4;2;Enfermedades respiratorias
+Beagle;9;10;7;5;Torsión gástrica
+Dachshund;7;8;2;6;Torsión gástrica
+Boxer;1;2;6;10;Normal
+Chihuahua;5;6;10;8;Normal
+Dogo Argentino;4;5;3;9;Problemas oculares
+Bulldog;4;5;2;7;Problemas respiratorios
+Doberman Pinscher;9;10;6;3;Normal
+Shih Tzu;2;3;4;10;Normal
+Labrador Retriever;10;11;10;9;Normal
+Pastor Alemán;6;7;4;3;Normal
+Gato Scottish Fold;5;6;2;1;Problemas dentales
+Gato Siamés;6;7;5;1;Enfermedades respiratorias
+Pug;1;2;1;5;Problemas respiratorios
+Bullmastiff;4;5;10;6;Displasia de cadera
+Rottweiler;5;6;5;5;Normal
+Labrador Retriever;4;5;2;2;Obesidad
+Gato Scottish Fold;1;2;1;5;Infecciones del tracto urinario
+Cocker Spaniel;3;4;10;10;Displasia de cadera
+Cocker Spaniel;4;5;10;5;Obesidad
+Gato Siamés;1;2;2;1;Problemas renales
+Gato Sphynx;5;6;9;6;Normal
+Boxer;6;7;10;5;Displasia de cadera
+Pug;8;9;5;10;Enfermedades del disco
+Gato Birmano;4;5;7;4;Obesidad
+Dachshund;5;6;3;9;Ansiedad por separación
+Cocker Spaniel;9;10;10;3;Problemas oculares
+Dogo Argentino;3;4;6;4;Obesidad
+Gato Siamés;8;9;7;10;Enfermedades respiratorias
+Gato Scottish Fold;10;11;2;8;Hipertiroidismo
+Boxer;5;6;7;8;Torsión gástrica
+Dachshund;8;9;1;10;Problemas oculares
+Dogo Argentino;3;4;9;1;Enfermedades cardíacas
+Bulldog;4;5;6;3;Displasia de cadera
+Shih Tzu;4;5;10;4;Displasia de cadera
+Doberman Pinscher;7;8;10;2;Ansiedad por separación
+Cocker Spaniel;9;10;2;3;Torsión gástrica
+Boxer;1;2;2;3;Obesidad
+Gato Maine Coon;9;10;2;6;Infecciones del tracto urinario
+Pastor Alemán;4;5;7;5;Enfermedades del disco
+Pug;2;3;9;5;Ansiedad por separación
+Bullmastiff;1;2;8;7;Normal
+Gato Persa;10;11;4;9;Hipertiroidismo
+Labrador Retriever;10;11;3;7;Infección gastrointestinal
+Boxer;3;4;5;2;Obesidad
+Gato Maine Coon;5;6;5;9;Problemas renales
+Dachshund;5;6;8;7;Displasia de cadera
+Labrador Retriever;4;5;9;1;Displasia de cadera
+Labrador Retriever;5;6;8;7;Displasia de cadera
+Labrador Retriever;3;4;8;2;Displasia de cadera
+Boxer;3;4;1;5;Obesidad
+Gato Bosque de Noruega;3;4;3;1;Obesidad
+Golden Retriever;2;3;5;6;Torsión gástrica
+Chihuahua;5;6;7;4;Displasia de cadera
+Bullmastiff;1;2;6;5;Torsión gástrica
+Gato Siamés;6;7;6;6;Problemas renales
+Doberman Pinscher;5;6;9;5;Displasia de cadera
+Golden Retriever;10;11;10;2;Normal
+Cocker Spaniel;5;6;3;7;Obesidad
+Bulldog;8;9;1;3;Infección gastrointestinal
+Dachshund;3;4;8;8;Enfermedades cardíacas
+Gato Ragdoll;2;3;5;1;Obesidad
+Dachshund;9;10;2;2;Normal
+Gato Birmano;8;9;2;2;Enfermedades respiratorias
+Pastor Alemán;1;2;8;7;Infección gastrointestinal
+Gato Azul Ruso;8;9;4;9;Hipertiroidismo
+Cocker Spaniel;2;3;1;10;Obesidad
+Golden Retriever;9;10;6;10;Enfermedades cardíacas
+Bullmastiff;9;10;8;10;Torsión gástrica
+Beagle;10;11;6;9;Enfermedades cardíacas
+Gato Sphynx;9;10;1;10;Problemas dentales
+Bullmastiff;4;5;4;1;Infección gastrointestinal
+Bullmastiff;6;7;3;8;Ansiedad por separación
+Gato Persa;10;11;1;7;Hipertiroidismo
+Gato Bosque de Noruega;3;4;10;3;Infecciones del tracto urinario
+Gato Bosque de Noruega;2;3;2;1;Problemas renales
+Gato Ragdoll;9;10;2;10;Estrés crónico
+Golden Retriever;10;11;3;2;Infección gastrointestinal
+Bullmastiff;3;4;4;8;Problemas oculares
+Shih Tzu;2;3;6;2;Enfermedades del disco
+Shih Tzu;6;7;10;10;Infección gastrointestinal
+Gato Sphynx;1;2;6;8;Estrés crónico
+Bullmastiff;10;11;9;1;Normal
+Gato Birmano;7;8;5;1;Enfermedades respiratorias
+Pug;2;3;6;6;Obesidad
+Pastor Alemán;8;9;9;4;Ansiedad por separación
+Gato Persa;9;10;6;7;Hipertiroidismo
+Cocker Spaniel;4;5;10;5;Problemas respiratorios
+Gato Bengalí;4;5;10;4;Estrés crónico
+Golden Retriever;4;5;8;9;Obesidad
+Gato Bengalí;3;4;1;7;Infecciones del tracto urinario
+Doberman Pinscher;1;2;4;2;Obesidad
+Chihuahua;1;2;1;8;Problemas respiratorios
+Bullmastiff;4;5;8;1;Displasia de cadera
+Pastor Alemán;6;7;8;3;Normal
+Gato Siamés;8;9;1;8;Estrés crónico
+Beagle;8;9;5;9;Ansiedad por separación
+Chihuahua;2;3;8;8;Enfermedades cardíacas
+Golden Retriever;10;11;7;3;Ansiedad por separación
+Gato Sphynx;2;3;10;9;Problemas renales
+Bulldog;9;10;6;4;Infección gastrointestinal
+Pug;6;7;1;4;Ansiedad por separación
+Bulldog;2;3;3;5;Obesidad
+Gato Birmano;9;10;4;4;Problemas renales
+Golden Retriever;8;9;3;7;Torsión gástrica
+Gato Bengalí;3;4;8;7;Infecciones del tracto urinario
+Dogo Argentino;4;5;6;5;Problemas respiratorios
+Gato Bosque de Noruega;5;6;8;4;Normal
+Doberman Pinscher;9;10;8;6;Normal
+Gato Maine Coon;8;9;7;10;Enfermedades respiratorias
+Gato Sphynx;10;11;10;5;Problemas dentales
+Gato Persa;8;9;9;10;Problemas dentales
+Gato Azul Ruso;7;8;5;8;Hipertiroidismo
+Pastor Alemán;4;5;2;1;Infección gastrointestinal
+Cocker Spaniel;4;5;4;5;Problemas respiratorios
+Shih Tzu;8;9;1;3;Enfermedades del disco
+Labrador Retriever;2;3;1;4;Obesidad
+Rottweiler;6;7;8;10;Infección gastrointestinal
+Gato Ragdoll;9;10;2;8;Problemas dentales
+Gato Birmano;6;7;4;8;Normal
+Dachshund;5;6;8;3;Obesidad
+Labrador Retriever;5;6;1;2;Ansiedad por separación
+Dogo Argentino;3;4;9;9;Obesidad
+Shih Tzu;6;7;8;10;Enfermedades cardíacas
+Shih Tzu;9;10;8;5;Normal
+Boxer;6;7;6;10;Enfermedades del disco
+Dachshund;1;2;9;1;Problemas oculares
+Bulldog;5;6;1;1;Problemas oculares
+Chihuahua;5;6;9;7;Displasia de cadera
+Gato Azul Ruso;4;5;5;6;Obesidad
+Rottweiler;2;3;2;1;Normal
+Doberman Pinscher;2;3;7;6;Enfermedades del disco
+Gato Birmano;7;8;5;10;Problemas dentales
+Bulldog;1;2;5;3;Normal
+Bulldog;8;9;5;7;Infección gastrointestinal
+Golden Retriever;1;2;8;10;Obesidad
+Labrador Retriever;1;2;4;2;Problemas oculares
+Shih Tzu;1;2;4;10;Obesidad
+Rottweiler;7;8;1;1;Torsión gástrica
+Gato Bosque de Noruega;6;7;2;1;Enfermedades respiratorias
+Gato Birmano;4;5;7;7;Enfermedades respiratorias
+Bulldog;1;2;4;5;Infección gastrointestinal
+Dogo Argentino;10;11;2;3;Normal
+Labrador Retriever;2;3;8;6;Problemas respiratorios
+Gato Birmano;6;7;4;8;Problemas renales
+Gato Siamés;7;8;2;4;Estrés crónico
+Gato Azul Ruso;7;8;5;6;Enfermedades respiratorias
+Gato Persa;1;2;4;5;Enfermedades respiratorias
+Gato Siamés;5;6;5;8;Normal
+Gato Sphynx;8;9;3;5;Problemas dentales
+Doberman Pinscher;7;8;10;3;Ansiedad por separación
+Gato Maine Coon;8;9;5;8;Enfermedades respiratorias
+Pug;5;6;7;10;Displasia de cadera
+Cocker Spaniel;7;8;6;4;Problemas oculares
+Beagle;1;2;1;7;Infección gastrointestinal
+Gato Maine Coon;5;6;5;9;Problemas dentales
+Chihuahua;1;2;9;4;Ansiedad por separación
+Beagle;6;7;4;2;Enfermedades del disco
+Rottweiler;4;5;6;7;Problemas respiratorios
+Golden Retriever;6;7;7;3;Normal
+Gato Bengalí;7;8;7;9;Infecciones del tracto urinario
+Gato Bengalí;8;9;4;1;Estrés crónico
+Rottweiler;3;4;7;3;Enfermedades del disco
+Gato Ragdoll;2;3;1;10;Enfermedades respiratorias
+Doberman Pinscher;4;5;2;2;Infección gastrointestinal
+Shih Tzu;5;6;1;10;Ansiedad por separación
+Gato Sphynx;5;6;6;4;Problemas dentales
+Gato Bosque de Noruega;3;4;8;4;Problemas renales
+Golden Retriever;4;5;4;10;Torsión gástrica
+Pug;2;3;5;6;Obesidad
+Bulldog;9;10;7;7;Normal
+Bulldog;4;5;9;6;Displasia de cadera
+Gato Sphynx;2;3;4;8;Normal
+Shih Tzu;10;11;10;6;Torsión gástrica
+Gato Bosque de Noruega;9;10;9;4;Normal
+Golden Retriever;8;9;2;7;Enfermedades cardíacas
+Dachshund;9;10;6;6;Ansiedad por separación
+Doberman Pinscher;4;5;6;1;Displasia de cadera
+Shih Tzu;8;9;10;7;Torsión gástrica
+Cocker Spaniel;9;10;4;10;Infección gastrointestinal
+Dachshund;6;7;5;4;Torsión gástrica
+Dachshund;5;6;10;4;Ansiedad por separación
+Beagle;6;7;2;5;Problemas oculares
+Rottweiler;7;8;9;1;Problemas oculares
+Shih Tzu;5;6;1;3;Enfermedades cardíacas
+Gato Siamés;9;10;5;10;Problemas renales
+Rottweiler;10;11;6;8;Torsión gástrica
+Gato Persa;1;2;9;1;Infecciones del tracto urinario
+Pug;5;6;4;6;Obesidad
+Dachshund;3;4;3;3;Enfermedades del disco
+Gato Maine Coon;10;11;4;10;Hipertiroidismo
+Bullmastiff;1;2;6;2;Normal
+Chihuahua;6;7;6;2;Ansiedad por separación
+Gato Ragdoll;7;8;5;9;Hipertiroidismo
+Gato Ragdoll;5;6;8;2;Enfermedades respiratorias
+Gato Siamés;5;6;3;4;Enfermedades respiratorias
+Beagle;6;7;4;6;Enfermedades del disco
+Gato Ragdoll;2;3;7;4;Problemas renales
+Beagle;3;4;2;7;Obesidad
+Gato Bosque de Noruega;2;3;3;6;Infecciones del tracto urinario
+Bulldog;9;10;6;7;Ansiedad por separación
+Cocker Spaniel;1;2;5;4;Torsión gástrica
+Dachshund;2;3;2;4;Ansiedad por separación
+Dachshund;6;7;7;2;Displasia de cadera
+Pug;3;4;6;10;Obesidad
+Gato Sphynx;1;2;3;8;Problemas dentales
+Bulldog;10;11;2;1;Ansiedad por separación
+Gato Persa;2;3;4;10;Obesidad
+Dachshund;3;4;2;9;Enfermedades del disco
+Bulldog;6;7;9;4;Normal
+Gato Bosque de Noruega;9;10;5;7;Estrés crónico
+Cocker Spaniel;8;9;3;4;Enfermedades cardíacas
+Rottweiler;3;4;9;1;Torsión gástrica
+Gato Siamés;10;11;5;1;Infecciones del tracto urinario
+Bullmastiff;7;8;3;7;Problemas oculares
+Cocker Spaniel;6;7;5;4;Enfermedades cardíacas
+Gato Ragdoll;10;11;10;6;Problemas dentales
+Bulldog;5;6;9;10;Displasia de cadera
+Beagle;8;9;1;5;Ansiedad por separación
+Cocker Spaniel;4;5;3;5;Problemas respiratorios
+Golden Retriever;9;10;1;1;Problemas oculares
+Gato Maine Coon;4;5;8;2;Obesidad
+Boxer;4;5;7;4;Displasia de cadera
+Shih Tzu;7;8;7;10;Enfermedades cardíacas
+Bullmastiff;6;7;7;4;Torsión gástrica
+Bulldog;3;4;2;5;Problemas oculares
+Gato Maine Coon;2;3;4;8;Obesidad
+Dachshund;3;4;10;7;Problemas respiratorios
+Beagle;3;4;5;4;Enfermedades del disco
+Bulldog;5;6;8;3;Obesidad
+Dachshund;6;7;9;8;Displasia de cadera
+Bullmastiff;8;9;8;7;Torsión gástrica
+Bullmastiff;1;2;2;6;Obesidad
+Pug;5;6;3;7;Ansiedad por separación
+Pastor Alemán;9;10;5;9;Torsión gástrica
+Doberman Pinscher;10;11;5;4;Normal
+Chihuahua;5;6;5;8;Torsión gástrica
+Chihuahua;4;5;8;5;Displasia de cadera
+Bullmastiff;1;2;1;7;Problemas respiratorios
+Cocker Spaniel;5;6;3;6;Ansiedad por separación
+Boxer;1;2;3;10;Normal
+Gato Birmano;10;11;4;10;Enfermedades respiratorias
+Bulldog;10;11;1;5;Problemas oculares
+Doberman Pinscher;6;7;6;9;Enfermedades del disco
+Gato Maine Coon;3;4;7;6;Obesidad
+Gato Azul Ruso;2;3;6;9;Obesidad
+Cocker Spaniel;5;6;6;6;Normal
+Golden Retriever;10;11;1;7;Normal
+Bulldog;1;2;10;8;Problemas respiratorios
+Gato Siamés;8;9;8;7;Infecciones del tracto urinario
+Chihuahua;2;3;7;8;Infección gastrointestinal
+Gato Ragdoll;10;11;6;8;Enfermedades respiratorias
+Beagle;1;2;4;1;Problemas oculares
+Gato Bosque de Noruega;10;11;7;8;Infecciones del tracto urinario
+Chihuahua;3;4;1;4;Normal
+Chihuahua;2;3;7;6;Problemas oculares
+Gato Bosque de Noruega;4;5;1;7;Problemas dentales
+Gato Bosque de Noruega;10;11;9;9;Estrés crónico
+Bulldog;10;11;3;7;Ansiedad por separación
+Doberman Pinscher;4;5;9;9;Problemas oculares
+Gato Persa;5;6;10;8;Problemas renales
+Dachshund;2;3;7;10;Obesidad
+Bullmastiff;4;5;5;7;Problemas respiratorios
+Gato Siamés;4;5;9;7;Normal
+Shih Tzu;3;4;2;10;Torsión gástrica
+Bulldog;4;5;8;9;Infección gastrointestinal
+Boxer;6;7;10;10;Enfermedades cardíacas
+Doberman Pinscher;1;2;9;6;Obesidad
+Bullmastiff;5;6;3;8;Problemas oculares
+Gato Sphynx;7;8;5;9;Estrés crónico
+Pug;3;4;1;4;Problemas respiratorios
+Dogo Argentino;1;2;10;1;Problemas oculares
+Gato Sphynx;10;11;6;4;Problemas renales
+Golden Retriever;6;7;6;7;Enfermedades del disco
+Beagle;3;4;6;5;Problemas oculares
+Beagle;7;8;9;6;Ansiedad por separación
+Rottweiler;2;3;2;6;Obesidad
+Gato Birmano;5;6;5;9;Problemas dentales
+Boxer;4;5;7;9;Torsión gástrica
+Gato Bosque de Noruega;6;7;4;9;Estrés crónico
+Cocker Spaniel;4;5;8;7;Normal
+Boxer;1;2;2;8;Problemas oculares
+Gato Ragdoll;8;9;6;8;Problemas dentales
+Pastor Alemán;6;7;2;7;Ansiedad por separación
+Cocker Spaniel;7;8;3;1;Torsión gástrica
+Pastor Alemán;9;10;1;4;Problemas oculares
+Beagle;10;11;7;9;Enfermedades del disco
+Golden Retriever;1;2;7;1;Infección gastrointestinal
+Shih Tzu;6;7;2;8;Infección gastrointestinal
+Boxer;8;9;7;1;Normal
+Beagle;4;5;10;6;Problemas respiratorios
+Pug;2;3;8;4;Problemas respiratorios
+Dachshund;10;11;6;8;Infección gastrointestinal
+Doberman Pinscher;10;11;4;4;Enfermedades cardíacas
+Gato Birmano;1;2;7;1;Problemas dentales
+Shih Tzu;8;9;10;2;Enfermedades del disco
+Gato Ragdoll;9;10;10;8;Hipertiroidismo
+Dachshund;5;6;7;10;Displasia de cadera
+Chihuahua;3;4;4;4;Problemas respiratorios
+Gato Siamés;5;6;5;1;Infecciones del tracto urinario
+Gato Persa;9;10;10;3;Enfermedades respiratorias
+Dogo Argentino;5;6;9;1;Displasia de cadera
+Bulldog;2;3;7;2;Ansiedad por separación
+Labrador Retriever;1;2;9;3;Enfermedades del disco
+Chihuahua;5;6;8;9;Displasia de cadera
+Gato Bengalí;1;2;9;7;Problemas renales
+Bullmastiff;9;10;9;9;Problemas oculares
+Dogo Argentino;3;4;10;9;Obesidad
+Shih Tzu;3;4;7;5;Displasia de cadera
+Gato Siamés;9;10;2;6;Problemas renales
+Bulldog;5;6;4;9;Obesidad
+Bulldog;1;2;1;5;Enfermedades del disco
+Golden Retriever;6;7;1;1;Enfermedades del disco
+Doberman Pinscher;3;4;7;4;Obesidad
+Dachshund;10;11;6;5;Enfermedades del disco
+Gato Maine Coon;9;10;3;8;Hipertiroidismo
+Gato Bengalí;8;9;1;8;Hipertiroidismo
+Chihuahua;4;5;10;1;Ansiedad por separación
+Bulldog;4;5;9;5;Problemas respiratorios
+Gato Siamés;1;2;7;10;Estrés crónico
+Bulldog;5;6;1;2;Enfermedades del disco
+Shih Tzu;6;7;8;2;Torsión gástrica
+Gato Sphynx;8;9;6;10;Hipertiroidismo
+Labrador Retriever;1;2;6;7;Problemas respiratorios
+Pug;8;9;8;1;Normal
+Dachshund;5;6;8;5;Displasia de cadera
+Rottweiler;10;11;6;1;Enfermedades cardíacas
+Gato Sphynx;8;9;2;5;Estrés crónico
+Gato Sphynx;1;2;7;4;Enfermedades respiratorias
+Chihuahua;3;4;2;8;Normal
+Gato Azul Ruso;4;5;6;4;Infecciones del tracto urinario
+Bulldog;9;10;6;6;Enfermedades cardíacas
+Bullmastiff;5;6;4;1;Ansiedad por separación
+Beagle;6;7;6;9;Enfermedades del disco
+Gato Bosque de Noruega;9;10;9;5;Problemas renales
+Gato Bengalí;10;11;6;9;Infecciones del tracto urinario
+Gato Bosque de Noruega;7;8;2;10;Hipertiroidismo
+Dogo Argentino;8;9;6;10;Normal
+Pastor Alemán;2;3;10;3;Ansiedad por separación
+Gato Azul Ruso;9;10;7;7;Hipertiroidismo
+Gato Ragdoll;9;10;5;3;Infecciones del tracto urinario
+Pug;8;9;7;9;Enfermedades del disco
+Bulldog;4;5;5;4;Torsión gástrica
+Shih Tzu;9;10;9;3;Problemas oculares
+Labrador Retriever;10;11;9;9;Enfermedades cardíacas
+Gato Bosque de Noruega;9;10;6;1;Enfermedades respiratorias
+Gato Birmano;1;2;3;6;Problemas renales
+Boxer;9;10;6;8;Enfermedades del disco
+Pastor Alemán;2;3;8;8;Problemas oculares
+Labrador Retriever;6;7;6;4;Displasia de cadera
+Gato Siamés;9;10;4;7;Hipertiroidismo
+Gato Persa;5;6;2;5;Problemas dentales
+Cocker Spaniel;2;3;2;4;Problemas respiratorios
+Dachshund;8;9;10;10;Infección gastrointestinal
+Dogo Argentino;6;7;10;2;Infección gastrointestinal
+Gato Azul Ruso;9;10;3;7;Normal
+Gato Sphynx;1;2;2;8;Problemas dentales
+Cocker Spaniel;5;6;6;6;Displasia de cadera
+Bullmastiff;10;11;7;9;Enfermedades del disco
+Golden Retriever;7;8;8;2;Torsión gástrica
+Pastor Alemán;5;6;8;6;Obesidad
+Golden Retriever;6;7;6;2;Displasia de cadera
+Beagle;1;2;6;4;Obesidad
+Golden Retriever;1;2;9;7;Problemas respiratorios
+Gato Birmano;10;11;3;3;Infecciones del tracto urinario
+Dogo Argentino;6;7;10;2;Displasia de cadera
+Labrador Retriever;8;9;7;10;Torsión gástrica
+Dogo Argentino;5;6;8;3;Infección gastrointestinal
+Chihuahua;7;8;8;10;Normal
+Doberman Pinscher;6;7;6;4;Displasia de cadera
+Gato Ragdoll;5;6;5;1;Estrés crónico
+Shih Tzu;3;4;1;7;Enfermedades cardíacas
+Dogo Argentino;1;2;1;8;Torsión gástrica
+Gato Siamés;3;4;9;4;Problemas dentales
+Labrador Retriever;6;7;9;5;Displasia de cadera
+Gato Persa;4;5;1;5;Problemas renales
+Shih Tzu;5;6;8;2;Infección gastrointestinal
+Chihuahua;7;8;9;9;Normal
+Gato Persa;10;11;2;8;Hipertiroidismo
+Gato Scottish Fold;10;11;7;8;Hipertiroidismo
+Pastor Alemán;3;4;9;2;Enfermedades cardíacas
+Gato Scottish Fold;1;2;7;6;Obesidad
+Doberman Pinscher;3;4;10;8;Displasia de cadera
+Gato Maine Coon;8;9;2;8;Problemas renales
+Dachshund;7;8;7;5;Normal
+Beagle;8;9;4;1;Enfermedades cardíacas
+Pastor Alemán;5;6;4;7;Infección gastrointestinal
+Beagle;4;5;2;7;Enfermedades del disco
+Golden Retriever;5;6;4;9;Enfermedades cardíacas
+Pastor Alemán;1;2;9;5;Enfermedades del disco
+Bullmastiff;3;4;5;2;Enfermedades del disco
+Pastor Alemán;1;2;8;10;Enfermedades cardíacas
+Gato Bosque de Noruega;10;11;3;5;Enfermedades respiratorias
+Dachshund;8;9;6;3;Torsión gástrica
+Chihuahua;3;4;2;9;Problemas oculares
+Bulldog;3;4;8;4;Torsión gástrica
+Beagle;6;7;3;10;Enfermedades del disco
+Pug;9;10;8;8;Normal
+Cocker Spaniel;5;6;1;6;Enfermedades cardíacas
+Gato Sphynx;9;10;3;2;Estrés crónico
+Beagle;8;9;8;9;Problemas oculares
+Bulldog;6;7;10;6;Displasia de cadera
+Bulldog;6;7;8;8;Displasia de cadera
+Cocker Spaniel;7;8;8;5;Normal
+Boxer;6;7;9;1;Enfermedades del disco
+Golden Retriever;4;5;6;5;Problemas respiratorios
+Shih Tzu;5;6;8;5;Displasia de cadera
+Bullmastiff;2;3;10;5;Problemas respiratorios
+Gato Sphynx;2;3;5;5;Problemas dentales
+Gato Persa;3;4;2;6;Obesidad
+Gato Scottish Fold;7;8;9;3;Problemas dentales
+Dogo Argentino;1;2;4;4;Enfermedades cardíacas
+Pug;7;8;4;9;Infección gastrointestinal
+Doberman Pinscher;7;8;6;1;Normal
+Bullmastiff;3;4;7;6;Ansiedad por separación
+Dachshund;7;8;2;9;Normal
+Golden Retriever;5;6;6;10;Enfermedades del disco
+Chihuahua;7;8;2;8;Enfermedades del disco
+Golden Retriever;3;4;8;3;Displasia de cadera
+Cocker Spaniel;4;5;10;8;Ansiedad por separación
+Doberman Pinscher;9;10;9;7;Ansiedad por separación
+Gato Scottish Fold;8;9;4;7;Enfermedades respiratorias
+Pug;7;8;6;8;Ansiedad por separación
+Doberman Pinscher;7;8;1;9;Normal
+Chihuahua;10;11;7;5;Enfermedades del disco
+Gato Azul Ruso;8;9;3;10;Hipertiroidismo
+Boxer;3;4;10;10;Displasia de cadera
+Chihuahua;1;2;4;1;Normal
+Chihuahua;3;4;8;8;Normal
+Rottweiler;2;3;10;3;Obesidad
+Labrador Retriever;4;5;3;7;Problemas respiratorios
+Chihuahua;7;8;2;7;Torsión gástrica
+Labrador Retriever;1;2;8;1;Torsión gástrica
+Gato Birmano;8;9;5;9;Hipertiroidismo
+Gato Maine Coon;3;4;7;7;Problemas dentales
+Gato Scottish Fold;7;8;8;5;Estrés crónico
+Dachshund;3;4;3;1;Enfermedades del disco
+Labrador Retriever;2;3;3;4;Torsión gástrica
+Gato Siamés;1;2;8;1;Enfermedades respiratorias
+Golden Retriever;8;9;1;3;Enfermedades cardíacas
+Bullmastiff;2;3;7;4;Problemas respiratorios
+Gato Bengalí;5;6;8;5;Enfermedades respiratorias
+Bullmastiff;4;5;4;9;Enfermedades cardíacas
+Bulldog;4;5;2;8;Problemas respiratorios
+Shih Tzu;4;5;9;3;Displasia de cadera
+Bulldog;8;9;2;2;Ansiedad por separación
+Dachshund;4;5;4;7;Problemas respiratorios
+Doberman Pinscher;8;9;4;8;Normal
+Gato Persa;9;10;7;7;Hipertiroidismo
+Boxer;7;8;4;8;Normal
+Gato Scottish Fold;1;2;4;6;Problemas renales
+Rottweiler;5;6;8;8;Displasia de cadera
+Gato Bosque de Noruega;7;8;4;6;Estrés crónico
+Gato Siamés;3;4;8;6;Enfermedades respiratorias
+Gato Maine Coon;8;9;2;10;Hipertiroidismo
+Shih Tzu;3;4;10;6;Obesidad
+Gato Birmano;4;5;3;2;Problemas renales
+Golden Retriever;6;7;7;6;Displasia de cadera
+Chihuahua;2;3;9;4;Obesidad
+Dogo Argentino;8;9;4;3;Normal
+Chihuahua;8;9;1;10;Infección gastrointestinal
+Labrador Retriever;4;5;3;1;Infección gastrointestinal
+Gato Bengalí;3;4;5;8;Normal
+Shih Tzu;6;7;9;9;Problemas oculares
+Labrador Retriever;3;4;6;2;Normal
+Gato Siamés;4;5;9;8;Infecciones del tracto urinario
+Bullmastiff;7;8;8;2;Problemas oculares
+Labrador Retriever;5;6;2;3;Ansiedad por separación
+Gato Siamés;9;10;1;4;Normal
+Gato Sphynx;8;9;1;9;Hipertiroidismo
+Gato Ragdoll;5;6;3;8;Obesidad
+Gato Birmano;10;11;7;2;Problemas renales
+Bullmastiff;6;7;6;9;Normal
+Gato Ragdoll;10;11;10;3;Infecciones del tracto urinario
+Labrador Retriever;4;5;6;2;Displasia de cadera
+Gato Maine Coon;10;11;6;5;Problemas dentales
+Bullmastiff;9;10;7;7;Problemas oculares
+Bullmastiff;4;5;1;4;Ansiedad por separación
+Doberman Pinscher;4;5;6;10;Displasia de cadera
+Dogo Argentino;9;10;3;2;Ansiedad por separación
+Gato Birmano;5;6;7;8;Obesidad
+Beagle;10;11;5;3;Problemas oculares
+Gato Siamés;4;5;5;4;Problemas dentales
+Labrador Retriever;3;4;7;2;Displasia de cadera
+Pug;1;2;2;6;Enfermedades cardíacas
+Golden Retriever;4;5;1;4;Obesidad
+Rottweiler;3;4;5;5;Infección gastrointestinal
+Labrador Retriever;7;8;3;10;Enfermedades cardíacas
+Bullmastiff;6;7;3;6;Enfermedades cardíacas
+Gato Azul Ruso;6;7;7;2;Estrés crónico
+Pastor Alemán;3;4;3;8;Obesidad
+Cocker Spaniel;4;5;3;9;Obesidad
+Gato Birmano;2;3;5;6;Problemas renales
+Boxer;3;4;4;7;Obesidad
+Shih Tzu;10;11;8;4;Enfermedades del disco
+Boxer;6;7;3;8;Torsión gástrica
+Gato Maine Coon;9;10;5;2;Normal
+Doberman Pinscher;3;4;8;5;Obesidad
+Golden Retriever;10;11;6;7;Infección gastrointestinal
+Pastor Alemán;5;6;4;1;Infección gastrointestinal
+Gato Persa;2;3;10;6;Problemas renales
+Boxer;6;7;1;4;Ansiedad por separación
+Rottweiler;9;10;1;7;Infección gastrointestinal
+Golden Retriever;9;10;8;10;Enfermedades del disco
+Gato Persa;8;9;1;2;Normal
+Gato Ragdoll;4;5;6;8;Obesidad
+Dachshund;10;11;10;6;Torsión gástrica
+Shih Tzu;3;4;6;8;Displasia de cadera
+Labrador Retriever;7;8;9;3;Infección gastrointestinal
+Gato Birmano;4;5;3;2;Normal
+Boxer;7;8;5;3;Enfermedades cardíacas
+Labrador Retriever;8;9;6;1;Enfermedades cardíacas
+Gato Persa;3;4;5;1;Enfermedades respiratorias
+Gato Birmano;9;10;2;4;Problemas dentales
+Boxer;4;5;9;7;Problemas respiratorios
+Rottweiler;6;7;8;3;Torsión gástrica
+Bullmastiff;8;9;1;5;Ansiedad por separación
+Golden Retriever;3;4;9;6;Problemas respiratorios
+Golden Retriever;9;10;6;4;Enfermedades del disco
+Gato Scottish Fold;9;10;5;9;Infecciones del tracto urinario
+Pug;4;5;8;7;Problemas respiratorios
+Gato Siamés;2;3;1;5;Infecciones del tracto urinario
+Doberman Pinscher;1;2;4;6;Problemas oculares
+Beagle;6;7;6;5;Enfermedades del disco
+Rottweiler;7;8;7;9;Torsión gástrica
+Dachshund;2;3;1;9;Torsión gástrica
+Gato Maine Coon;2;3;5;4;Enfermedades respiratorias
+Chihuahua;10;11;5;8;Infección gastrointestinal
+Doberman Pinscher;2;3;10;2;Obesidad
+Gato Persa;6;7;9;9;Infecciones del tracto urinario
+Gato Birmano;7;8;10;8;Hipertiroidismo
+Gato Bengalí;3;4;9;9;Infecciones del tracto urinario
+Golden Retriever;7;8;10;9;Infección gastrointestinal
+Gato Bosque de Noruega;5;6;3;5;Estrés crónico
+Beagle;4;5;6;2;Infección gastrointestinal
+Cocker Spaniel;4;5;9;7;Displasia de cadera
+Shih Tzu;5;6;10;8;Displasia de cadera
+Dogo Argentino;9;10;6;2;Problemas oculares
+Gato Persa;6;7;8;5;Problemas dentales
+Beagle;9;10;4;5;Enfermedades cardíacas
+Pastor Alemán;1;2;7;9;Enfermedades cardíacas
+Dogo Argentino;1;2;10;10;Enfermedades del disco
+Chihuahua;7;8;1;9;Normal
+Gato Siamés;6;7;5;3;Enfermedades respiratorias
+Shih Tzu;3;4;9;8;Ansiedad por separación
+Doberman Pinscher;8;9;8;4;Problemas oculares
+Gato Ragdoll;8;9;3;1;Problemas renales
+Gato Siamés;10;11;2;9;Infecciones del tracto urinario
+Chihuahua;3;4;4;4;Problemas respiratorios
+Pastor Alemán;5;6;2;9;Enfermedades del disco
+Dachshund;9;10;9;2;Normal
+Pastor Alemán;9;10;8;6;Enfermedades cardíacas
+Shih Tzu;6;7;3;3;Infección gastrointestinal
+Gato Sphynx;4;5;4;6;Enfermedades respiratorias
+Bullmastiff;9;10;6;9;Torsión gástrica
+Gato Bosque de Noruega;1;2;10;6;Problemas renales
+Shih Tzu;6;7;8;6;Displasia de cadera
+Cocker Spaniel;10;11;2;2;Enfermedades cardíacas
+Gato Ragdoll;3;4;2;8;Infecciones del tracto urinario
+Boxer;2;3;7;6;Problemas respiratorios
+Doberman Pinscher;10;11;7;8;Enfermedades del disco
+Gato Siamés;3;4;9;6;Problemas renales
+Shih Tzu;1;2;6;3;Torsión gástrica
+Gato Siamés;5;6;8;5;Normal
+Shih Tzu;3;4;8;8;Displasia de cadera
+Gato Sphynx;8;9;8;4;Problemas dentales
+Rottweiler;5;6;1;7;Ansiedad por separación
+Labrador Retriever;1;2;10;3;Infección gastrointestinal
+Gato Bengalí;7;8;5;8;Hipertiroidismo
+Dogo Argentino;8;9;9;4;Infección gastrointestinal
+Doberman Pinscher;4;5;7;6;Infección gastrointestinal
+Dachshund;5;6;4;3;Normal
+Dogo Argentino;7;8;6;4;Problemas oculares
+Bulldog;4;5;1;4;Enfermedades cardíacas
+Gato Bengalí;6;7;7;6;Normal
+Boxer;1;2;9;1;Obesidad
+Bullmastiff;4;5;4;1;Ansiedad por separación
+Golden Retriever;8;9;9;6;Ansiedad por separación
+Chihuahua;1;2;8;4;Enfermedades del disco
+Gato Bosque de Noruega;1;2;4;8;Enfermedades respiratorias
+Gato Bosque de Noruega;4;5;8;2;Estrés crónico
+Chihuahua;5;6;10;8;Obesidad
+Labrador Retriever;9;10;8;4;Infección gastrointestinal
+Cocker Spaniel;1;2;10;6;Problemas respiratorios
+Boxer;1;2;1;8;Normal
+Rottweiler;10;11;9;6;Problemas oculares
+Bulldog;6;7;9;7;Infección gastrointestinal
+Dogo Argentino;5;6;8;4;Torsión gástrica
+Chihuahua;8;9;9;5;Torsión gástrica
+Gato Siamés;8;9;1;7;Problemas renales
+Labrador Retriever;4;5;7;5;Infección gastrointestinal
+Gato Bosque de Noruega;2;3;8;8;Estrés crónico
+Cocker Spaniel;3;4;7;4;Enfermedades cardíacas
+Pug;4;5;7;4;Displasia de cadera
+Gato Persa;7;8;5;6;Problemas dentales
+Bulldog;3;4;5;1;Ansiedad por separación
+Shih Tzu;10;11;5;5;Ansiedad por separación
+Golden Retriever;10;11;6;1;Problemas oculares
+Gato Birmano;7;8;3;8;Normal
+Bullmastiff;5;6;5;1;Normal
+Gato Scottish Fold;8;9;4;7;Hipertiroidismo
+Boxer;9;10;4;6;Ansiedad por separación
+Labrador Retriever;1;2;8;2;Enfermedades cardíacas
+Cocker Spaniel;9;10;4;5;Normal
+Doberman Pinscher;7;8;1;8;Infección gastrointestinal
+Chihuahua;6;7;4;7;Normal
+Doberman Pinscher;9;10;1;1;Infección gastrointestinal
+Labrador Retriever;5;6;7;9;Obesidad
+Shih Tzu;6;7;3;3;Enfermedades cardíacas
+Bullmastiff;5;6;5;1;Obesidad
+Gato Maine Coon;6;7;5;8;Enfermedades respiratorias
+Gato Bengalí;2;3;10;5;Infecciones del tracto urinario
+Chihuahua;6;7;5;8;Problemas oculares
+Pastor Alemán;3;4;4;7;Obesidad
+Gato Sphynx;7;8;1;8;Hipertiroidismo
+Shih Tzu;4;5;9;1;Displasia de cadera
+Doberman Pinscher;4;5;4;5;Ansiedad por separación
+Bullmastiff;2;3;4;9;Problemas oculares
+Shih Tzu;10;11;10;7;Infección gastrointestinal
+Gato Sphynx;5;6;3;5;Estrés crónico
+Cocker Spaniel;5;6;6;7;Displasia de cadera
+Labrador Retriever;6;7;10;2;Infección gastrointestinal
+Gato Maine Coon;1;2;5;7;Problemas renales
+Gato Persa;10;11;7;2;Infecciones del tracto urinario
+Cocker Spaniel;7;8;10;7;Problemas oculares
+Gato Persa;10;11;3;3;Normal
+Dachshund;10;11;9;5;Infección gastrointestinal
+Gato Bengalí;9;10;2;1;Estrés crónico
+Shih Tzu;3;4;4;5;Problemas respiratorios
+Doberman Pinscher;5;6;10;2;Problemas oculares
+Gato Siamés;5;6;4;4;Normal
+Bullmastiff;6;7;7;5;Problemas oculares
+Golden Retriever;8;9;8;6;Problemas oculares
+Gato Birmano;9;10;4;1;Infecciones del tracto urinario
+Dogo Argentino;2;3;10;5;Problemas respiratorios
+Bulldog;3;4;6;10;Normal
+Gato Sphynx;6;7;4;9;Problemas dentales
+Cocker Spaniel;4;5;6;6;Normal
+Gato Sphynx;10;11;1;6;Problemas renales
+Beagle;10;11;4;9;Enfermedades cardíacas
+Pug;5;6;5;3;Enfermedades del disco
+Gato Ragdoll;8;9;6;4;Infecciones del tracto urinario
+Pug;3;4;7;7;Obesidad
+Gato Maine Coon;8;9;7;8;Hipertiroidismo
+Cocker Spaniel;5;6;8;6;Normal
+Labrador Retriever;3;4;9;7;Normal
+Boxer;6;7;2;10;Enfermedades del disco
+Rottweiler;4;5;2;3;Obesidad
+Gato Bosque de Noruega;10;11;4;10;Hipertiroidismo
+Gato Persa;7;8;3;7;Hipertiroidismo
+Doberman Pinscher;5;6;6;1;Displasia de cadera
+Beagle;1;2;1;5;Problemas respiratorios
+Gato Bosque de Noruega;7;8;7;7;Hipertiroidismo
+Gato Birmano;9;10;7;9;Hipertiroidismo
+Rottweiler;4;5;8;8;Problemas respiratorios
+Gato Maine Coon;9;10;7;7;Estrés crónico
+Bulldog;5;6;1;1;Normal
+Gato Azul Ruso;10;11;3;2;Enfermedades respiratorias
+Gato Ragdoll;3;4;9;3;Problemas renales
+Labrador Retriever;6;7;8;5;Displasia de cadera
+Labrador Retriever;1;2;9;6;Problemas respiratorios
+Golden Retriever;3;4;7;3;Enfermedades del disco
+Dogo Argentino;2;3;1;5;Problemas respiratorios
+Bulldog;5;6;6;1;Obesidad
+Gato Maine Coon;10;11;6;4;Enfermedades respiratorias
+Beagle;6;7;8;10;Enfermedades del disco
+Gato Birmano;8;9;5;6;Problemas dentales
+Gato Sphynx;5;6;5;8;Obesidad
+Gato Maine Coon;9;10;4;10;Estrés crónico
+Chihuahua;4;5;1;3;Ansiedad por separación
+Shih Tzu;5;6;10;1;Displasia de cadera
+Labrador Retriever;10;11;1;1;Normal
+Rottweiler;10;11;1;5;Enfermedades del disco
+Gato Birmano;3;4;9;1;Obesidad
+Beagle;4;5;10;6;Displasia de cadera
+Beagle;10;11;1;10;Ansiedad por separación
+Labrador Retriever;7;8;10;5;Enfermedades cardíacas
+Bulldog;2;3;3;1;Enfermedades cardíacas
+Labrador Retriever;5;6;4;7;Normal
+Gato Bengalí;8;9;6;10;Estrés crónico
+Boxer;1;2;9;4;Torsión gástrica
+Gato Maine Coon;10;11;1;5;Problemas renales
+Rottweiler;6;7;7;5;Displasia de cadera
+Cocker Spaniel;7;8;6;3;Enfermedades del disco
+Gato Birmano;4;5;3;5;Enfermedades respiratorias
+Cocker Spaniel;6;7;10;7;Normal
+Golden Retriever;10;11;10;9;Ansiedad por separación
+Dogo Argentino;2;3;8;3;Ansiedad por separación
+Beagle;4;5;6;3;Displasia de cadera
+Shih Tzu;4;5;3;8;Problemas respiratorios
+Doberman Pinscher;1;2;9;2;Enfermedades cardíacas
+Dogo Argentino;4;5;4;3;Infección gastrointestinal
+Doberman Pinscher;5;6;4;4;Enfermedades cardíacas
+Gato Scottish Fold;8;9;3;9;Estrés crónico
+Gato Ragdoll;9;10;3;4;Problemas renales
+Gato Azul Ruso;6;7;10;4;Problemas dentales
+Golden Retriever;3;4;1;5;Normal
+Gato Persa;8;9;4;1;Problemas renales
+Gato Scottish Fold;7;8;2;7;Infecciones del tracto urinario
+Shih Tzu;5;6;1;6;Ansiedad por separación
+Doberman Pinscher;4;5;8;9;Enfermedades del disco
+Bulldog;2;3;6;4;Problemas respiratorios
+Dogo Argentino;3;4;8;4;Displasia de cadera
+Golden Retriever;4;5;5;5;Normal
+Pug;4;5;2;8;Problemas respiratorios
+Gato Bosque de Noruega;6;7;7;1;Enfermedades respiratorias
+Gato Bosque de Noruega;2;3;4;9;Obesidad
+Pastor Alemán;4;5;6;7;Torsión gástrica
+Cocker Spaniel;5;6;4;4;Normal
+Gato Ragdoll;4;5;1;4;Normal
+Gato Siamés;7;8;5;4;Problemas dentales
+Gato Bosque de Noruega;10;11;8;4;Normal
+Doberman Pinscher;2;3;1;10;Enfermedades cardíacas
+Gato Maine Coon;9;10;1;9;Hipertiroidismo
+Gato Scottish Fold;8;9;10;7;Hipertiroidismo
+Cocker Spaniel;5;6;6;1;Infección gastrointestinal
+Doberman Pinscher;3;4;4;7;Problemas respiratorios
+Gato Persa;9;10;10;1;Problemas dentales
+Pug;3;4;6;6;Displasia de cadera
+Rottweiler;5;6;4;8;Problemas oculares
+Gato Scottish Fold;4;5;1;4;Estrés crónico
+Gato Scottish Fold;9;10;1;7;Hipertiroidismo
+Dachshund;9;10;9;6;Enfermedades del disco
+Cocker Spaniel;1;2;5;5;Problemas oculares
+Rottweiler;5;6;8;5;Displasia de cadera
+Chihuahua;6;7;7;5;Enfermedades cardíacas
+Beagle;2;3;4;5;Obesidad
+Gato Bosque de Noruega;3;4;8;9;Obesidad
+Labrador Retriever;2;3;7;8;Normal
+Doberman Pinscher;4;5;6;8;Problemas oculares
+Rottweiler;4;5;4;4;Problemas respiratorios
+Chihuahua;6;7;5;7;Ansiedad por separación
+Gato Azul Ruso;9;10;7;8;Problemas renales
+Dachshund;3;4;9;1;Problemas oculares
+Gato Sphynx;10;11;5;10;Hipertiroidismo
+Doberman Pinscher;5;6;2;2;Problemas oculares
+Chihuahua;5;6;1;8;Obesidad
+Dachshund;8;9;1;4;Infección gastrointestinal
+Bulldog;5;6;8;5;Displasia de cadera
+Beagle;2;3;3;6;Enfermedades del disco
+Chihuahua;10;11;7;7;Problemas oculares
+Gato Birmano;4;5;8;10;Infecciones del tracto urinario
+Dachshund;9;10;2;1;Infección gastrointestinal
+Doberman Pinscher;4;5;1;1;Obesidad
+Dogo Argentino;3;4;5;10;Enfermedades cardíacas
+Gato Sphynx;5;6;3;2;Normal
+Chihuahua;1;2;2;4;Problemas respiratorios
+Cocker Spaniel;3;4;5;4;Obesidad
+Pug;2;3;1;2;Problemas oculares
+Dogo Argentino;2;3;1;4;Obesidad
+Golden Retriever;5;6;1;5;Torsión gástrica
+Bullmastiff;4;5;3;7;Obesidad
+Bullmastiff;8;9;8;1;Normal
+Gato Scottish Fold;1;2;1;3;Problemas dentales
+Chihuahua;9;10;10;8;Infección gastrointestinal
+Dachshund;1;2;7;7;Obesidad
+Gato Sphynx;5;6;10;4;Obesidad
+Pastor Alemán;2;3;2;4;Obesidad
+Chihuahua;10;11;5;8;Torsión gástrica
+Gato Persa;1;2;4;7;Obesidad
+Boxer;3;4;7;8;Problemas respiratorios
+Dachshund;5;6;7;3;Displasia de cadera
+Boxer;6;7;3;9;Problemas oculares
+Dogo Argentino;4;5;5;3;Enfermedades del disco
+Boxer;3;4;1;4;Problemas respiratorios
+Gato Bosque de Noruega;10;11;3;9;Hipertiroidismo
+Cocker Spaniel;4;5;9;4;Problemas respiratorios
+Pug;3;4;8;9;Enfermedades cardíacas
+Bulldog;4;5;2;6;Problemas respiratorios
+Gato Azul Ruso;4;5;2;4;Problemas dentales
+Gato Maine Coon;10;11;5;9;Hipertiroidismo
+Labrador Retriever;7;8;7;9;Enfermedades del disco
+Rottweiler;2;3;6;9;Infección gastrointestinal
+Cocker Spaniel;5;6;10;10;Enfermedades cardíacas
+Labrador Retriever;5;6;4;7;Normal
+Dachshund;3;4;10;4;Problemas respiratorios
+Bullmastiff;2;3;2;4;Enfermedades del disco
+Gato Ragdoll;10;11;5;10;Hipertiroidismo
+Bulldog;2;3;1;9;Torsión gástrica
+Pug;8;9;6;1;Normal
+Bulldog;5;6;1;1;Infección gastrointestinal
+Boxer;3;4;8;1;Enfermedades del disco
+Dogo Argentino;9;10;5;4;Enfermedades cardíacas
+Shih Tzu;4;5;9;6;Enfermedades del disco
+Boxer;10;11;6;8;Torsión gástrica
+Gato Maine Coon;9;10;3;9;Infecciones del tracto urinario
+Gato Maine Coon;7;8;8;1;Problemas dentales
+Gato Siamés;3;4;3;6;Estrés crónico
+Doberman Pinscher;9;10;7;10;Infección gastrointestinal
+Gato Bengalí;3;4;4;3;Normal
+Pastor Alemán;7;8;6;4;Normal
+Dachshund;5;6;3;9;Ansiedad por separación
+Gato Persa;6;7;3;4;Problemas renales
+Boxer;3;4;10;6;Infección gastrointestinal
+Bullmastiff;4;5;7;5;Problemas respiratorios
+Dogo Argentino;2;3;4;1;Obesidad
+Shih Tzu;2;3;1;8;Problemas respiratorios
+Chihuahua;4;5;7;8;Displasia de cadera
+Rottweiler;6;7;9;7;Displasia de cadera
+Dogo Argentino;7;8;6;5;Problemas oculares
+Beagle;8;9;2;7;Infección gastrointestinal
+Dachshund;3;4;9;6;Enfermedades cardíacas
+Shih Tzu;3;4;5;3;Enfermedades cardíacas
+Beagle;6;7;7;4;Displasia de cadera
+Rottweiler;10;11;6;2;Enfermedades del disco
+Pastor Alemán;4;5;7;8;Ansiedad por separación
+Bullmastiff;6;7;9;7;Displasia de cadera
+Pug;7;8;4;7;Enfermedades del disco
+Doberman Pinscher;3;4;10;6;Infección gastrointestinal
+Labrador Retriever;5;6;9;10;Infección gastrointestinal
+Pastor Alemán;9;10;7;5;Ansiedad por separación
+Dachshund;7;8;7;2;Ansiedad por separación
+Gato Ragdoll;2;3;1;1;Infecciones del tracto urinario
+Bullmastiff;10;11;7;4;Enfermedades cardíacas
+Rottweiler;6;7;1;10;Enfermedades cardíacas
+Boxer;4;5;4;4;Torsión gástrica
+Gato Maine Coon;9;10;1;1;Infecciones del tracto urinario
+Beagle;1;2;9;3;Enfermedades del disco
+Golden Retriever;4;5;7;3;Displasia de cadera
+Bullmastiff;4;5;1;3;Ansiedad por separación
+Dachshund;2;3;7;8;Torsión gástrica
+Boxer;6;7;8;1;Problemas oculares
+Gato Siamés;3;4;8;9;Estrés crónico
+Cocker Spaniel;3;4;5;8;Problemas respiratorios
+Gato Bengalí;2;3;5;7;Normal
+Boxer;4;5;3;10;Normal
+Gato Persa;3;4;3;3;Problemas dentales
+Dogo Argentino;2;3;3;6;Enfermedades del disco
+Pastor Alemán;1;2;7;5;Torsión gástrica
+Boxer;10;11;7;6;Torsión gástrica
